@@ -1,0 +1,26 @@
+# Copyright (C) 2026 Changkai Zhang.
+#
+# This file is part of Vivian project.
+#
+# Vivian is free software: you can redistribute it and/or modify it
+# under the terms of the GNU General Public License as published
+# by the Free Software Foundation, either version 3 of the License,
+# or (at your option) any later version.
+#
+# Vivian is distributed in the hope that it will be useful, but
+# WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with Vivian. If not, see <https://www.gnu.org/licenses/>.
+
+
+"""Tensor network objects for 2D lattices.
+
+This subpackage will host the iPEPS and iPEPO containers, their unit-cell
+bookkeeping, the CTMRG environment tensors, and the measurement routines
+built on top of them.
+"""
+
+__all__: list[str] = []
