@@ -1,5 +1,5 @@
 <h1 align="center">
-  Vivian
+  <img src="docs/images/vivian.png" alt="Vivian Tensor Network Algorithms" width="280">
 </h1>
 
 <p align="center">
