@@ -19,7 +19,7 @@ description = "Vivian: collection of 2D tensor network algorithms"
 dynamic = ["readme"]
 requires-python = ">=3.11"
 license = { file = "LICENSE" }
-authors = [{ name = "Changkai Zhang", email = "changkai.zhang@lmu.de" }]
+authors = [{ name = "Changkai Zhang", email = "c.zhang@ideogenesis.ai" }]
 keywords = [
   "tensor-network", "ipeps", "peps", "ctmrg", "simple-update",
   "full-update", "quantum", "physics", "symmetry", "two-dimensional"
